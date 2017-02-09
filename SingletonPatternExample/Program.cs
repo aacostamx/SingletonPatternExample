@@ -23,14 +23,23 @@ namespace SingletonPatternExample
             SingletonThreadSafe s3 = SingletonThreadSafe.Instance();
             SingletonThreadSafe s4 = SingletonThreadSafe.Instance();
 
+            SingletonLazy s5 = SingletonLazy.Instance;
+            SingletonLazy s6 = SingletonLazy.Instance;
+
+
             if (s1 == s2)
             {
-                Console.WriteLine("Objects are the same instance");
+                Console.WriteLine("Objects Singleton are the same instance");
             }
 
             if (s3 == s4)
             {
-                Console.WriteLine("Objects are the same instance");
+                Console.WriteLine("Objects SingletonThreadSafe are the same instance");
+            }
+
+            if (s5 == s6)
+            {
+                Console.WriteLine("Objects SingletonLazy are the same instance");
             }
 
             Console.ReadKey();

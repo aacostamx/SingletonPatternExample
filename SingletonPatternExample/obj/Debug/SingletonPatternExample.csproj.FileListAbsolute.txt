@@ -1,0 +1,6 @@
+c:\users\linko\documents\visual studio 2015\Projects\SingletonPatternExample\SingletonPatternExample\bin\Debug\SingletonPatternExample.exe.config
+c:\users\linko\documents\visual studio 2015\Projects\SingletonPatternExample\SingletonPatternExample\bin\Debug\SingletonPatternExample.exe
+c:\users\linko\documents\visual studio 2015\Projects\SingletonPatternExample\SingletonPatternExample\bin\Debug\SingletonPatternExample.pdb
+c:\users\linko\documents\visual studio 2015\Projects\SingletonPatternExample\SingletonPatternExample\obj\Debug\SingletonPatternExample.csprojResolveAssemblyReference.cache
+c:\users\linko\documents\visual studio 2015\Projects\SingletonPatternExample\SingletonPatternExample\obj\Debug\SingletonPatternExample.exe
+c:\users\linko\documents\visual studio 2015\Projects\SingletonPatternExample\SingletonPatternExample\obj\Debug\SingletonPatternExample.pdb
